@@ -7,5 +7,5 @@
     - [Table](/SvelteComponents.md/#table)
 
 - **Changes Made to the Table**
-    - Removed pagination to view only the frst 5 documents.
+    - Removed pagination to view only the first 5 documents.
     - Added a button to redirect to the Document Page.
